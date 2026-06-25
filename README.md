@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Karthikeyan (@nkeyan11)
-- 👀 I’m interested in datascience with python.
-- 🌱 I’m currently learning datascience with python.
-- 💞️ I’m looking to collaborate on end to end ML projects.
+- 👀 I’m interested in Data Engineering with Fabric.
+- 💞️ I’m looking to collaborate on fabric projects
 
 <!---
 nkeyan11/nkeyan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
